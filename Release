@@ -1,0 +1,7 @@
+Origin: WebMessage Repo
+Label: WebMessage
+Suite: stable
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: WebMessage tweak repository
