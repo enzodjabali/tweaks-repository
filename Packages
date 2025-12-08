@@ -1,13 +1,13 @@
 Package: com.sgtaziz.WebMessage
 Version: 0.6.1
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Maintainer: Aziz <sgtaziz013@gmail.com>
 Depends: firmware (>= 12.0), openssl, com.muirey03.libmryipc, mobilesubstrate, preferenceloader
 Filename: debs/WebMessage.deb
-Size: 729204
-MD5sum: 18247289578ea9abe12727f47581b818
-SHA1: 41492d3be4a91566f2e16a121350e41fa23d11ae
-SHA256: ce222a30a48d2a93139cac91f5381942452e7c482b6012d9bcd6ad7f04d24a0d
+Size: 729208
+MD5sum: 6ad3baa717cb7f5e3153e5919519f3f7
+SHA1: 9a31a95a972e34061e4010f6e65f5b5b2d223aa8
+SHA256: ead8a9a5b822fee94388fd7afe7cbdd3f374fdfd4e130e6bfef1ef4a1624969c
 Section: System
 Priority: optional
 Description: Your messages, on every device.
