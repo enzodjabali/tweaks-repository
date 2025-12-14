@@ -1,0 +1,20 @@
+Origin: enzodjabali's Repo
+Label: enzodjabali
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
+Components: main
+Description: enzodjabali's personal tweak repository
+MD5Sum:
+ 3d966cd43b308eaca783179bc5e0b679             1156 Packages
+ 082e44d607df3dad7e7431c1ab3da26d              718 Packages.bz2
+ 378ae32d9d5cc2d7d3082448f3e9dada              624 Packages.gz
+SHA1:
+ b52df4a2866ab370b262dc3f2622f0c5b7a6aad6             1156 Packages
+ 5e41a4a55fbf6845697bb2cd7b5e73339955463e              718 Packages.bz2
+ f648a52d36041d171384292cb995223bd4a4bce2              624 Packages.gz
+SHA256:
+ 7835586a05626574daaa36b03f44b2de830216c2eab79cea4bec8cd064143dfc             1156 Packages
+ d9760385e10fd3908d567cb47b26b211c0a0b09fb1bdf1f16d4e15dcb3a5fcc3              718 Packages.bz2
+ a335cf3165faa1d2214fec074fd0f683e1ce17440e5f41cc9cb4634ad63b9e74              624 Packages.gz

@@ -31,9 +31,9 @@ brew install dpkg zstd
    gzip -fk Packages
    ```
 
-4. **Update the Release file** (manual or skip this step - GitHub Pages doesn't require it):
+4. **Update the Release file**:
    ```bash
-   # Optional: manually update Release file or skip
+   ./update-release.sh
    ```
 
 5. **Commit and push changes**:
@@ -45,7 +45,14 @@ brew install dpkg zstd
 
 ### Quick Script
 
-You can automate the process with this one-liner:
+You can automate the entire process:
 ```bash
-dpkg-scanpackages -m . /dev/null > Packages && bzip2 -fk Packages && gzip -fk Packages
+dpkg-scanpackages -m . /dev/null > Packages && bzip2 -fk Packages && gzip -fk Packages && ./update-release.sh
+```
+
+### Repository URL
+
+Add this URL to Sileo/Cydia:
+```
+https://enzodjabali.github.io/tweaks-repository/
 ```
