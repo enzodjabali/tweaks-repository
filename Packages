@@ -1,13 +1,13 @@
 Package: com.enzodjabali.iosmb-server
-Version: 1.0.0
+Version: 0.6.5
 Architecture: iphoneos-arm
 Maintainer: Enzo Djabali <enzo@djabali.dev>
 Depends: firmware (>= 12.0), openssl, com.muirey03.libmryipc, mobilesubstrate, preferenceloader
 Filename: ./debs/iOSMB-Server.deb
-Size: 851532
-MD5sum: 49d4a7f0541c82c8e9aa903f53e4681a
-SHA1: ee9badecc3f8b6c4b3924b7c09b30cb7e9ce9ea9
-SHA256: 856fac17c650c9dbfdbe01d16f9fddbaebc9c6cb49ec2b83f4625a3c7a74ccff
+Size: 851538
+MD5sum: 61153d887c1d83c10d4aa4c59568927d
+SHA1: 36f87121e3aa7618e92e0ed01b1a055973af79cd
+SHA256: e706133f646625bdda6c4d84c39056f8a0ee27aef5c6a9129c7f2aaae1ff01f2
 Section: System
 Priority: optional
 Homepage: https://github.com/enzodjabali/iOSMB-Server
